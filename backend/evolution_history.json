@@ -1,0 +1,502 @@
+[
+  {
+    "generation": 0,
+    "best_fitness": 104386.56356702441,
+    "avg_fitness": 93622.24311602447,
+    "std_fitness": 8658.945300129877,
+    "best_score": 88.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 1,
+    "best_fitness": 103292.73840769466,
+    "avg_fitness": 96939.49213463375,
+    "std_fitness": 3270.523774152224,
+    "best_score": 87.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 2,
+    "best_fitness": 102025.09514906725,
+    "avg_fitness": 95308.16481607303,
+    "std_fitness": 4259.717037360357,
+    "best_score": 86.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 3,
+    "best_fitness": 108885.03183119622,
+    "avg_fitness": 96224.35356385098,
+    "std_fitness": 6405.634515451087,
+    "best_score": 92.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 4,
+    "best_fitness": 101011.32456949068,
+    "avg_fitness": 93610.27112001511,
+    "std_fitness": 4577.286665985496,
+    "best_score": 85.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 5,
+    "best_fitness": 100992.96768058345,
+    "avg_fitness": 90740.50600570603,
+    "std_fitness": 10312.565857063255,
+    "best_score": 85.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 6,
+    "best_fitness": 104322.73448684254,
+    "avg_fitness": 95914.09975457375,
+    "std_fitness": 4444.915360759584,
+    "best_score": 88.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 7,
+    "best_fitness": 106530.36210290207,
+    "avg_fitness": 97157.95107639366,
+    "std_fitness": 6457.613552523442,
+    "best_score": 90.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 8,
+    "best_fitness": 104377.3920735738,
+    "avg_fitness": 93584.79912468501,
+    "std_fitness": 6641.800076576433,
+    "best_score": 88.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 9,
+    "best_fitness": 99710.89010161895,
+    "avg_fitness": 94380.42366647291,
+    "std_fitness": 3144.248121443826,
+    "best_score": 84.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 10,
+    "best_fitness": 98543.35933054797,
+    "avg_fitness": 94393.11793359494,
+    "std_fitness": 2782.9956549775684,
+    "best_score": 83.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 11,
+    "best_fitness": 104487.54162192509,
+    "avg_fitness": 95814.15247097361,
+    "std_fitness": 4056.032875720417,
+    "best_score": 88.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 12,
+    "best_fitness": 104304.03846918441,
+    "avg_fitness": 96371.99963281644,
+    "std_fitness": 4688.576819936275,
+    "best_score": 88.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 13,
+    "best_fitness": 104437.0173149355,
+    "avg_fitness": 95013.31770829386,
+    "std_fitness": 4626.949131868188,
+    "best_score": 88.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 14,
+    "best_fitness": 103276.31377323165,
+    "avg_fitness": 95569.80971671578,
+    "std_fitness": 4343.119424469814,
+    "best_score": 87.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 15,
+    "best_fitness": 98761.14789259722,
+    "avg_fitness": 93400.639676282,
+    "std_fitness": 4764.45642245899,
+    "best_score": 83.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 16,
+    "best_fitness": 103352.71341798149,
+    "avg_fitness": 95482.93391709644,
+    "std_fitness": 5805.934090988406,
+    "best_score": 87.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 17,
+    "best_fitness": 102008.16001110565,
+    "avg_fitness": 95772.57894614877,
+    "std_fitness": 3915.3281855379264,
+    "best_score": 86.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 18,
+    "best_fitness": 99825.11176779772,
+    "avg_fitness": 95096.52540412266,
+    "std_fitness": 3258.1135462260077,
+    "best_score": 84.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 19,
+    "best_fitness": 102083.62390593586,
+    "avg_fitness": 93625.28937842677,
+    "std_fitness": 6567.057462049261,
+    "best_score": 86.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 20,
+    "best_fitness": 99845.4290600392,
+    "avg_fitness": 91977.51087881971,
+    "std_fitness": 5288.024178298976,
+    "best_score": 84.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 21,
+    "best_fitness": 104390.3352719476,
+    "avg_fitness": 96900.19032783645,
+    "std_fitness": 5410.336638172154,
+    "best_score": 88.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 22,
+    "best_fitness": 104501.980987952,
+    "avg_fitness": 98195.98657660447,
+    "std_fitness": 3737.2264461159543,
+    "best_score": 88.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 23,
+    "best_fitness": 105527.96019355055,
+    "avg_fitness": 98070.27174321728,
+    "std_fitness": 5259.480100805866,
+    "best_score": 89.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 24,
+    "best_fitness": 105293.45574271685,
+    "avg_fitness": 95405.65763706897,
+    "std_fitness": 5275.926817621644,
+    "best_score": 89.0,
+    "best_moves": 1995.0,
+    "best_survival_time": 2.5619168281555176,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 25,
+    "best_fitness": 102084.94778012253,
+    "avg_fitness": 95321.87694941903,
+    "std_fitness": 3846.2642545450844,
+    "best_score": 86.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 26,
+    "best_fitness": 103284.49620494845,
+    "avg_fitness": 94752.4648431832,
+    "std_fitness": 5985.418353092053,
+    "best_score": 87.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 27,
+    "best_fitness": 103327.16455147446,
+    "avg_fitness": 97417.70325901767,
+    "std_fitness": 5157.792620538876,
+    "best_score": 87.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 28,
+    "best_fitness": 98592.02955602146,
+    "avg_fitness": 93242.8976332586,
+    "std_fitness": 4343.057564107508,
+    "best_score": 83.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 29,
+    "best_fitness": 103203.9926611303,
+    "avg_fitness": 85473.39307447195,
+    "std_fitness": 21787.138776628653,
+    "best_score": 87.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 30,
+    "best_fitness": 98620.44533650718,
+    "avg_fitness": 94310.32000221717,
+    "std_fitness": 3361.5464760321747,
+    "best_score": 83.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 31,
+    "best_fitness": 99848.79489748874,
+    "avg_fitness": 96113.52076485466,
+    "std_fitness": 1989.3046443669414,
+    "best_score": 84.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 32,
+    "best_fitness": 100881.44276297175,
+    "avg_fitness": 93256.67404550934,
+    "std_fitness": 5045.394472568873,
+    "best_score": 85.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 33,
+    "best_fitness": 98663.7276792051,
+    "avg_fitness": 91477.34718579212,
+    "std_fitness": 7768.409317286856,
+    "best_score": 83.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 34,
+    "best_fitness": 100953.87250934739,
+    "avg_fitness": 91679.37069723304,
+    "std_fitness": 6642.94578390786,
+    "best_score": 85.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 35,
+    "best_fitness": 105493.40063969788,
+    "avg_fitness": 91461.55566235186,
+    "std_fitness": 16533.35284308909,
+    "best_score": 89.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 36,
+    "best_fitness": 110051.9033301361,
+    "avg_fitness": 96575.21013797726,
+    "std_fitness": 6244.66280655334,
+    "best_score": 93.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 37,
+    "best_fitness": 103283.75500054409,
+    "avg_fitness": 95217.98021451809,
+    "std_fitness": 4982.522888239798,
+    "best_score": 87.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 38,
+    "best_fitness": 100964.85938686927,
+    "avg_fitness": 89260.5996644021,
+    "std_fitness": 10953.592049293422,
+    "best_score": 85.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 39,
+    "best_fitness": 105589.70210451278,
+    "avg_fitness": 94767.80052735918,
+    "std_fitness": 5139.366990624261,
+    "best_score": 89.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 40,
+    "best_fitness": 103224.90884857782,
+    "avg_fitness": 96179.53174180395,
+    "std_fitness": 4594.498667977795,
+    "best_score": 87.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 41,
+    "best_fitness": 102184.92833243542,
+    "avg_fitness": 94616.39212540367,
+    "std_fitness": 6184.459631830675,
+    "best_score": 86.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 42,
+    "best_fitness": 101092.0010258897,
+    "avg_fitness": 97391.83273589257,
+    "std_fitness": 3121.5531665274784,
+    "best_score": 85.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 43,
+    "best_fitness": 103211.72650181026,
+    "avg_fitness": 95853.19960417974,
+    "std_fitness": 4684.319230799912,
+    "best_score": 87.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 44,
+    "best_fitness": 101010.73211998185,
+    "avg_fitness": 96497.33293630535,
+    "std_fitness": 3694.782190842476,
+    "best_score": 85.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 45,
+    "best_fitness": 103111.04487637155,
+    "avg_fitness": 94048.95749864652,
+    "std_fitness": 4624.764644663944,
+    "best_score": 87.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 46,
+    "best_fitness": 101089.40235176461,
+    "avg_fitness": 95021.64098070771,
+    "std_fitness": 3914.712120861861,
+    "best_score": 85.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 47,
+    "best_fitness": 105522.84257291215,
+    "avg_fitness": 95541.90424271303,
+    "std_fitness": 5462.7745679849795,
+    "best_score": 89.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 48,
+    "best_fitness": 104446.89434461616,
+    "avg_fitness": 93844.22012025572,
+    "std_fitness": 3843.647965108378,
+    "best_score": 88.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  },
+  {
+    "generation": 49,
+    "best_fitness": 104342.95285409028,
+    "avg_fitness": 97151.92367713591,
+    "std_fitness": 4356.748839138351,
+    "best_score": 88.0,
+    "best_moves": 2000.0,
+    "best_survival_time": 0.0,
+    "safety_overrides": 0.0
+  }
+]

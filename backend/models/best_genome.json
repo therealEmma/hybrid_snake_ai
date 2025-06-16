@@ -1,0 +1,613 @@
+{
+  "fitness": 110051.9033301361,
+  "generation": 50,
+  "n_inputs": 18,
+  "n_outputs": 4,
+  "n_nodes": 50,
+  "nodes": [
+    {
+      "type": "input",
+      "inputs": [
+        0
+      ],
+      "active": true
+    },
+    {
+      "type": "input",
+      "inputs": [
+        1
+      ],
+      "active": false
+    },
+    {
+      "type": "input",
+      "inputs": [
+        2
+      ],
+      "active": false
+    },
+    {
+      "type": "input",
+      "inputs": [
+        3
+      ],
+      "active": false
+    },
+    {
+      "type": "input",
+      "inputs": [
+        4
+      ],
+      "active": true
+    },
+    {
+      "type": "input",
+      "inputs": [
+        5
+      ],
+      "active": false
+    },
+    {
+      "type": "input",
+      "inputs": [
+        6
+      ],
+      "active": true
+    },
+    {
+      "type": "input",
+      "inputs": [
+        7
+      ],
+      "active": true
+    },
+    {
+      "type": "input",
+      "inputs": [
+        8
+      ],
+      "active": false
+    },
+    {
+      "type": "input",
+      "inputs": [
+        9
+      ],
+      "active": false
+    },
+    {
+      "type": "input",
+      "inputs": [
+        10
+      ],
+      "active": false
+    },
+    {
+      "type": "input",
+      "inputs": [
+        11
+      ],
+      "active": false
+    },
+    {
+      "type": "input",
+      "inputs": [
+        12
+      ],
+      "active": true
+    },
+    {
+      "type": "input",
+      "inputs": [
+        13
+      ],
+      "active": false
+    },
+    {
+      "type": "input",
+      "inputs": [
+        14
+      ],
+      "active": true
+    },
+    {
+      "type": "input",
+      "inputs": [
+        15
+      ],
+      "active": true
+    },
+    {
+      "type": "input",
+      "inputs": [
+        16
+      ],
+      "active": false
+    },
+    {
+      "type": "input",
+      "inputs": [
+        17
+      ],
+      "active": false
+    },
+    {
+      "type": "function",
+      "inputs": [
+        12,
+        14
+      ],
+      "active": true,
+      "function": "clamp"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        0,
+        18
+      ],
+      "active": true,
+      "function": "gt"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        15,
+        7
+      ],
+      "active": true,
+      "function": "gt"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        4,
+        18
+      ],
+      "active": true,
+      "function": "or"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        3,
+        6
+      ],
+      "active": false,
+      "function": "gt"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        7,
+        6
+      ],
+      "active": false,
+      "function": "mul"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        19,
+        7
+      ],
+      "active": true,
+      "function": "clamp"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        15,
+        15
+      ],
+      "active": true,
+      "function": "min"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        25,
+        20
+      ],
+      "active": true,
+      "function": "min"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        19,
+        1
+      ],
+      "active": false,
+      "function": "mul"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        9,
+        26
+      ],
+      "active": false,
+      "function": "and"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        6,
+        27
+      ],
+      "active": false,
+      "function": "lt"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        27,
+        23
+      ],
+      "active": false,
+      "function": "sub"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        8,
+        3
+      ],
+      "active": false,
+      "function": "gt"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        16,
+        15
+      ],
+      "active": false,
+      "function": "or"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        19,
+        16
+      ],
+      "active": false,
+      "function": "gt"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        15,
+        32
+      ],
+      "active": false,
+      "function": "mul"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        3,
+        7
+      ],
+      "active": false,
+      "function": "lt"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        20,
+        3
+      ],
+      "active": false,
+      "function": "or"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        3,
+        36
+      ],
+      "active": false,
+      "function": "mul"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        16,
+        36
+      ],
+      "active": false,
+      "function": "sigmoid"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        19,
+        27
+      ],
+      "active": false,
+      "function": "lt"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        7,
+        24
+      ],
+      "active": true,
+      "function": "min"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        40,
+        38
+      ],
+      "active": false,
+      "function": "or"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        12,
+        32
+      ],
+      "active": false,
+      "function": "div"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        31,
+        5
+      ],
+      "active": false,
+      "function": "lt"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        15,
+        9
+      ],
+      "active": false,
+      "function": "mul"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        6,
+        21
+      ],
+      "active": true,
+      "function": "clamp"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        36,
+        37
+      ],
+      "active": false,
+      "function": "mul"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        9,
+        38
+      ],
+      "active": false,
+      "function": "clamp"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        24,
+        42
+      ],
+      "active": false,
+      "function": "sigmoid"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        35,
+        42
+      ],
+      "active": false,
+      "function": "min"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        37,
+        9
+      ],
+      "active": false,
+      "function": "max"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        25,
+        8
+      ],
+      "active": false,
+      "function": "mul"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        24,
+        46
+      ],
+      "active": false,
+      "function": "lt"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        22,
+        42
+      ],
+      "active": false,
+      "function": "mul"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        5,
+        50
+      ],
+      "active": false,
+      "function": "lt"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        7,
+        18
+      ],
+      "active": false,
+      "function": "max"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        11,
+        50
+      ],
+      "active": false,
+      "function": "lt"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        30,
+        21
+      ],
+      "active": false,
+      "function": "or"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        0,
+        31
+      ],
+      "active": false,
+      "function": "or"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        6,
+        17
+      ],
+      "active": false,
+      "function": "min"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        22,
+        49
+      ],
+      "active": false,
+      "function": "sigmoid"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        41,
+        3
+      ],
+      "active": false,
+      "function": "min"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        5,
+        33
+      ],
+      "active": false,
+      "function": "max"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        26,
+        20
+      ],
+      "active": false,
+      "function": "div"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        40,
+        0
+      ],
+      "active": false,
+      "function": "min"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        53,
+        37
+      ],
+      "active": false,
+      "function": "clamp"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        55,
+        43
+      ],
+      "active": false,
+      "function": "sub"
+    },
+    {
+      "type": "function",
+      "inputs": [
+        47,
+        24
+      ],
+      "active": false,
+      "function": "sub"
+    },
+    {
+      "type": "output",
+      "inputs": [
+        45
+      ],
+      "active": true
+    },
+    {
+      "type": "output",
+      "inputs": [
+        40
+      ],
+      "active": true
+    },
+    {
+      "type": "output",
+      "inputs": [
+        19
+      ],
+      "active": true
+    },
+    {
+      "type": "output",
+      "inputs": [
+        26
+      ],
+      "active": true
+    }
+  ]
+}

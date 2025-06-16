@@ -1,0 +1,6 @@
+Simulation Results
+================================================================================
+
+Warning: 'best_genome.json' not found. Hybrid algorithm will use random actions.
+Loaded CGP genome from 'training_data/best_snake_ai.json'
+Running A_STAR...
